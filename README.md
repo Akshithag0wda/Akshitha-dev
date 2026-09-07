@@ -11,3 +11,6 @@ Interested in cloud computing
 
 ### Goals
 Goal: contribute to open source
+
+### Projects
+Smart Water Quality and Water Level Monitoring System is an IoT project desinged to monitor water level and turbidity in real time.
